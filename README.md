@@ -15,7 +15,8 @@ Play as **X** or **O** and see who wins – or if it ends in a draw!
 ---
 
 ## 📸 Screenshot
-
+![Tic Tac Toe Screenshot](ttt1.png)
+![Tic Tac Toe Screenshot](ttt2.png)
 ---
 
 ## 🛠️ Technologies Used
