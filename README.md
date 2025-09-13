@@ -34,8 +34,9 @@ Play as **X** or **O** and see who wins – or if it ends in a draw!
 5. Use the **Reset** or **New Game** button to play again.
 
 ---
+
 ## 🎮 Play Now
-[Click here to play Tic Tac Toe]([https://raveenakumari24.github.io/tictactoe/](https://raveenakumari24.github.io/Tic-Tac-Toe/))
+[Click here to play Tic Tac Toe](https://raveenakumari24.github.io/Tic-Tac-Toe/)
 
 ---
 ## 📂 Project Setup
