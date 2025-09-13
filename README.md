@@ -16,7 +16,6 @@ Play as **X** or **O** and see who wins – or if it ends in a draw!
 
 ## 📸 Screenshot
 
-
 ---
 
 ## 🛠️ Technologies Used
