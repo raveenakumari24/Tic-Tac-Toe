@@ -35,7 +35,7 @@ Play as **X** or **O** and see who wins – or if it ends in a draw!
 
 ---
 ## 🎮 Play Now
-[Click here to play Tic Tac Toe](https://raveenakumari24.github.io/tictactoe/)
+[Click here to play Tic Tac Toe]([https://raveenakumari24.github.io/tictactoe/](https://raveenakumari24.github.io/Tic-Tac-Toe/))
 
 ---
 ## 📂 Project Setup
